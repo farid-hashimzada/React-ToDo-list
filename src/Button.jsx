@@ -10,7 +10,8 @@ export const Button = ({
                 background: bgColor,
                 color: txtColor,
                 padding: 10,
-                marginLeft: 10,                            
+                marginLeft: 10,   
+                                         
             }
         }>
             {text}
